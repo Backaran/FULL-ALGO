@@ -1,0 +1,14 @@
+{
+  "name": "full-algo",
+  "version": "1.0.0",
+  "main": "src/fizzbuzz.ts",
+  "license": "MIT",
+  "scripts": {
+    "fizzbuzz": "ts-node src/fizzbuzz.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
